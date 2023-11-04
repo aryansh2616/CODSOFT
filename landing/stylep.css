@@ -1,0 +1,44 @@
+body {
+    background-color: antiquewhite;
+}
+
+
+.loud {
+    display: flex;
+}
+
+P {
+    text-align: center;
+}
+
+.pic1 {
+    height: 400px;
+    width: 600px;
+    border-radius: 20px;
+}
+
+.abc {
+    margin: 65px;
+}
+
+.def {
+    margin: 65px;
+}
+
+.pic2 {
+    height: 400px;
+    width: 600px;
+    border-radius: 20px;
+}
+
+.pic3 {
+    height: 400px;
+    width: 600px;
+}
+
+.name {
+    font-size: 3rem;
+    text-align: right;
+    margin-top: 50px;
+    color: rgb(3, 12, 12);
+}
